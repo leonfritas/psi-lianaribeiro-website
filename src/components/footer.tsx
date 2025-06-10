@@ -10,10 +10,9 @@ export function Footer() {
         <div className="mt-16 grid items-center justify-center gap-10">
           
           <p className="text-center font-normal !text-gray-700">
-            &copy; {CURRENT_YEAR} {" "}
-            <a href="https://www.material-tailwind.com" target="_blank">
-              Desenvolvido por Noodle Software Solutions.
-            </a>{" "}
+            <a href="https://www.instagram.com/noodlesoftware/" target="_blank" rel="noopener noreferrer">
+              &copy; {CURRENT_YEAR} Desenvolvido por Noodle Software Solutions.
+            </a>
           </p>
         </div>
       </div>
