@@ -37,7 +37,11 @@ export function LatestBlogPosts() {
         <p className="text-lg text-gray-600 text-center  mx-auto md:mx-0">
           Mais do que um processo clínico, a terapia é uma jornada de <span className="font-semibold text-gray-800">autodescoberta</span> e <span className="font-semibold text-gray-800">cura emocional</span>. 
           Através dela, você ganha clareza para tomar decisões, fortalece sua saúde mental e 
-          reconecta-se com a melhor versão de si mesmo. <span className="block mt-4 italic">"O maior ato de coragem é olhar para dentro e transformar o que encontra."</span>
+          reconecta-se com a melhor versão de si mesmo. 
+        <span className="block mt-4 italic">
+          &quot;O maior ato de coragem é olhar para dentro e transformar o que encontra.&quot;
+        </span>
+
         </p>
       </div>
       <div className="container mx-auto overflow-x-auto">
