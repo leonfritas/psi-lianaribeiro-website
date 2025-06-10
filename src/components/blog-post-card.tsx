@@ -1,13 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import {
-  Typography,
-  Card,
-  CardHeader,
-  CardBody,
-} from "@material-tailwind/react";
 
-import { ArrowRightIcon } from "@heroicons/react/24/outline";
 
 interface BlogPostCardProps {
   img: string;

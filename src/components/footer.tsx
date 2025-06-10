@@ -1,6 +1,3 @@
-import { Typography, IconButton } from "@material-tailwind/react";
-
-const LINKS = ["Company", "About Us", "Team", "Product", "Blog", "Pricing"];
 const CURRENT_YEAR = new Date().getFullYear();
 
 export function Footer() {

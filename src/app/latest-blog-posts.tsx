@@ -6,7 +6,7 @@ import BlogPostCard from "@/components/blog-post-card";
 
 const BLOG_POSTS = [
   {
-    img: "/image/terapia.jpg", // Sugiro uma imagem de alguém em sessão ou símbolos de crescimento (ex: árvore, caminho)
+    img: "/image/terapia.jpg", 
     title: "Autoconhecimento que Liberta",
     desc: "A terapia oferece as ferramentas para entender padrões emocionais, romper ciclos negativos e encontrar sua voz autêntica.",
   },
