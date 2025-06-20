@@ -35,7 +35,7 @@ export function LatestBlogPosts() {
           A Terapia que Transforma Vidas
         </h2>
         <p className="text-lg text-gray-600 text-center  mx-auto md:mx-0">
-          Mais do que um processo clínico, a terapia é uma jornada de <span className="font-semibold text-gray-800">autodescoberta</span> e <span className="font-semibold text-gray-800">cura emocional</span>. 
+          Mais do que um processo clínico, a terapia é uma jornada de <span className="font-semibold text-gray-800">autodescoberta guiada</span>. 
           Através dela, você ganha clareza para tomar decisões, fortalece sua saúde mental e 
           reconecta-se com a melhor versão de si mesmo. 
         <span className="block mt-4 italic">
@@ -54,12 +54,21 @@ export function LatestBlogPosts() {
         </div>
       </div>
       <div className="container mx-auto mt-12 text-center">
+        <a
+              href="https://wa.me/+5592986022225"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
       <button
         className="flex items-center justify-center gap-3 px-6 py-3 text-white bg-[#00A9FF] rounded-lg shadow-lg hover:bg-[#6ec4ec] transition duration-300 ease-in-out"
         type="button"
       >
-        Agende sua sessão <ArrowRightIcon className="w-5 h-5" />
+        
+              Agende sua sessão
+            
+         <ArrowRightIcon className="w-5 h-5" />
       </button>
+      </a>
       </div>
     </section>
   );

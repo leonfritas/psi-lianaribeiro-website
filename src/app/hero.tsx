@@ -35,13 +35,22 @@ function Hero() {
 
         {/* Botão de contato */}
         <div className="mt-12">
-          <button
-            className="flex items-center justify-center gap-3 px-6 py-3 text-white bg-[#00A9FF] rounded-lg shadow-lg hover:bg-[#6ec4ec] transition duration-300 ease-in-out"
-            type="button"
-          >
-            Entrar em contato
-            <ArrowRightIcon strokeWidth={3} className="h-4 w-4 text-white" />
-          </button>
+          <a
+              href="https://wa.me/+5592986022225"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+            <button
+              className="flex items-center justify-center gap-3 px-6 py-3 text-white bg-[#00A9FF] rounded-lg shadow-lg hover:bg-[#6ec4ec] transition duration-300 ease-in-out"
+              type="button"
+            >
+              
+                Entrar em contato
+              
+            
+              <ArrowRightIcon strokeWidth={3} className="h-4 w-4 text-white" />
+            </button>
+          </a>
         </div>
       </div>
     </header>
