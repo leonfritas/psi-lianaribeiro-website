@@ -55,7 +55,7 @@ export function LatestBlogPosts() {
       </div>
       <div className="container mx-auto mt-12 text-center">
         <a
-              href="https://wa.me/+5592986022225"
+              href="https://wa.me/5592986022225?text=Ol%C3%A1%21+%F0%9F%98%8A+Gostaria+de+saber+mais+e+agendar+uma+sess%C3%A3o"
               target="_blank"
               rel="noopener noreferrer"
             >
