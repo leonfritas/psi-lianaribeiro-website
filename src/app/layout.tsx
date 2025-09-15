@@ -23,7 +23,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link rel="shortcut icon" href="/favicon.png" type="image/png" />
+        <link rel="shortcut icon" href="#" type="image/png" />
       </head>
       <body className="font-sans">
         <Layout>
