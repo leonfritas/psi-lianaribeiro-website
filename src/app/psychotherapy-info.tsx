@@ -21,7 +21,7 @@ export function PsychotherapyInfo() {
             <li><strong>Atendimentos semanais ou diários</strong>, conforme sua necessidade.</li>
             <li><strong>Presencial em local reservado</strong> ou <strong>online, com total privacidade</strong>.</li>
             <li><strong>Ética, sigilo e acolhimento</strong> em todas as sessões.</li>
-            <li>Atendimento para <strong>adolescentes, adultos e idosos</strong>.</li>
+            <li>Atendimento para <strong>adolescentes e adultos</strong>.</li>
             <li>Indicado para casos de <strong>ansiedade, depressão, luto, autoestima, relacionamentos</strong> e mais.</li>
             <li>Espaço seguro para expressão emocional e autoconhecimento.</li>
           </ul>
