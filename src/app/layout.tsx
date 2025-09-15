@@ -1,13 +1,13 @@
 import "./globals.css";
 import type { Metadata } from "next";
-import { Roboto } from "next/font/google";
+// import { Roboto } from "next/font/google";
 import { Layout } from "@/components";
 
-const roboto = Roboto({
-  subsets: ["latin"],
-  weight: ["300", "400", "500", "700", "900"],
-  display: "swap",
-});
+// const roboto = Roboto({
+//   subsets: ["latin"],
+//   weight: ["300", "400", "500", "700", "900"],
+//   display: "swap",
+// });
 
 export const metadata: Metadata = {
   title: "Liana Ribeiro - Psicóloga",
@@ -25,7 +25,7 @@ export default function RootLayout({
       <head>
         <link rel="shortcut icon" href="/favicon.png" type="image/png" />
       </head>
-      <body className={roboto.className}>
+      <body className="font-sans">
         <Layout>
           {children}
         </Layout>
